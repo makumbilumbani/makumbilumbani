@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @makumbilumbani;
 - 👀 I’m interested in coming up with algorithms and building systems that solve actual real world problems;
 - 🌱 I’m currently learning jetpack compose to extend my knowledge in kotlin since I am coming from the XML background;
-- 💞️ I’m looking to collaborate on any project, I am also comfortable with desktop application dev and web dev;
+- 💞️ I’m looking to collaborate on any project, I am also comfortable with desktop application dev with C# and web dev with PHP, HTML, CSS & Vanilla JS;
 - 📫 You can email me through chisasikomakumbi@yahoo.com or whatsApp +265993766219;
 
 <!---
